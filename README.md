@@ -3,9 +3,9 @@ This repository hosts the R code and files for [Getting and Cleaning data](https
 
 <h3>Files included in this repository:</h3>
 
-1. The [run_analysis.R]() file contains the code required to download the data,process it and produce the required tidy data set.
-2. The [averages.txt]() file contains the output of averages for each subject and activity.
-3. The [Code Book]() contains more information about the data and the analysis.
+1. The [run_analysis.R](https://github.com/rsigatapu/Getting-and-Cleaning-Data-Course-Project/edit/master/run_analysis.R) file contains the code required to download the data,process it and produce the required tidy data set.
+2. The [averages.txt](https://github.com/rsigatapu/Getting-and-Cleaning-Data-Course-Project/edit/master/averages.txt) file contains the output of averages for each subject and activity.
+3. The [Code Book](https://github.com/rsigatapu/Getting-and-Cleaning-Data-Course-Project/edit/master/CodeBook.md) contains more information about the data and the analysis.
 
 
 
