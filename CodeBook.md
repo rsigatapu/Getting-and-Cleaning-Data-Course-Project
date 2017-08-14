@@ -27,7 +27,7 @@ This analysis was performed using only the files below. The data files in the "I
 * `activity_labels.txt`: Names and IDs for each of the 6 activities.
 
 
-Please view more information about these files and features here - [`README.txt`]() and [`features_info.txt`]().
+Please view more information about these files and features here - [`README.txt`](https://github.com/rsigatapu/Getting-and-Cleaning-Data-Course-Project/blob/master/README.txt) and [`features_info.txt`](https://github.com/rsigatapu/Getting-and-Cleaning-Data-Course-Project/blob/master/features_info.txt).
 
 ### Data Processing -
 
